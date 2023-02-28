@@ -12,7 +12,7 @@ class Cricketer{
 		
 		void printDetails()
 	   	{
-		    System.out.println(Name);
+		    System.out.println(fullname);
 			System.out.println(country);
 			System.out.println(matches);
 		
